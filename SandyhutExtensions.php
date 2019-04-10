@@ -6,7 +6,7 @@
 /*
 Plugin Name: SandyhutExtensions
 Plugin URI: https://github.com/serialbandicoot/SandyhutExtensions
-Description: Table Rate Shipping returned in a GET request
+Description: Extensions for AppCart
 Version: 1.0.0
 Author: @serialbandicoot
 Author URI: https://github.com/serialbandicoot/SandyhutExtensions
