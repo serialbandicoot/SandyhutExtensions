@@ -9,7 +9,7 @@ Plugin URI: https://github.com/serialbandicoot/SandyhutExtensions
 Description: Extensions for AppCart
 Version: 1.0.0
 Author: @serialbandicoot
-Author URI: https://github.com/serialbandicoot/SandyhutExtensions
+Author URI: https://appcart.io
 License: GPLv2 or later 
 Text Domain: SandyhutExtensions
 */
