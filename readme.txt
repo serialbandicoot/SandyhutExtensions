@@ -1,12 +1,35 @@
-# SandyhutExtensions
-WP Plugin to get Table Rate Shipping Data and Additional Media
+=== Plugin Name ===
+Plugin Name: SandyhutExtensions
+Contributors: samtreweek
+Donate link: https://appcart.io/
+Requires at least: 4.6
+Tested up to: 5.1.1
+Stable tag: 45.1.1
+Requires PHP: 7.1.23
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-## Get additional information about Table Rate Shipping Data
-## Get further images on product requests
+== Description ==
 
-1. Clone the Project
-2. Copy the Folder into app > public > wp_content > plugins
-3. From Wordpress Administration screen open Plugin and the TableRateShippingData plugin should be available
-4. Activate the Plugin
-5. http://lhost/wp-json/shipping/v1/table_rate_data
-6. On any product request images contains further media details
+Wordpress Plugin to get Table Rate Shipping Data and Additional Media
+
+== Frequently Asked Questions ==
+
+= Who is this plugin for =
+
+This plugin has been designed for use with appcart.io
+
+== Changelog ==
+
+= 1.0 =
+* TableRateShipping added.
+* Enhancement to WooCommerce Product Media.
+
+== Upgrade Notice ==
+
+= 1.0 =
+First version to be released.
+
+== Screenshots ==
+
+1. No screenshots
